@@ -51,7 +51,7 @@ Container:
 
 ### Inserting an image
 
-![Image 1](https://css-tricks.com/wp-content/uploads/2016/01/choose-markdown.jpg)
+![choose-markdown.png|50](https://css-tricks.com/wp-content/uploads/2016/01/choose-markdown.jpg)
 
 ### Inserting a Table
 
@@ -60,3 +60,23 @@ Container:
 |ToMeYOu      |To@gmail.com    |
 |User1        | User1@gmail.com|
 |User2        | User2@gmail.com|
+
+
+## Section Header
+<details  background-color = "blue">
+<summary>Section Header 1
+</summary>
+Hello 1
+  <details>
+  <summary> Sub section sub 1</summary>
+
+  </details>
+Hello 2
+<details>
+    <summary>section sub 2<summary>
+
+
+</details>
+
+
+</details>
